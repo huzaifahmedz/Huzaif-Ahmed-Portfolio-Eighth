@@ -1,0 +1,42 @@
+{
+  "Metadata": {
+    "titleTemplate": "%s | Huzaif Ahmed's Portfolio",
+    "titleDefault": "Huzaif Ahmed - Full-Stack Web Developer",
+    "description": "Portfolio of Huzaif Ahmed, a web developer specializing in responsive design, front-end, back-end, and modern web technologies.",
+    "keywords": "Huzaif Ahmed, Huzaif Ahmed Developer, Huzaif Ahmed Dev, Portfolio, Web Developer, Full-Stack, Front-End, Back-End, React, Next.js, Node.js, MongoDB, Responsive Design, Modern Websites, High-Quality Websites"
+  },
+  "HomePage": {
+    "hello": "Hello",
+    "name": "Huzaif Ahmed",
+    "about": {
+      "1": "Most of the time I'm a",
+      "2": "full-stack web developer",
+      "3": "with expertise in React, Next.js, Node.js, and MongoDB. I love creating modern, responsive web applications with a focus on user experience and performance. Currently working as a Frontend Developer at SelectSkillSet, I bring experience from my previous role as a Full Stack Developer at Tekisky."
+    },
+    "motto": "You can ask me anything or see my projects.",
+    "contactBtn": "Contact me",
+    "downloadCvBtn": "Download CV",
+    "technologies": "Some languages and technologies I know well",
+    "projects": {
+      "1": "My",
+      "2": "Projects"
+    },
+    "contact": {
+      "1": "Contact",
+      "2": "me"
+    }
+  },
+  "ContactSection": {
+    "name": "Name",
+    "message": "Message",
+    "sendBtn": "Send form",
+    "socials": "My socials",
+    "socialsDescription": "Here you will find all my social media accounts and other ways to contact me."
+  },
+  "Topbar": {
+    "projects": "My projects",
+    "contact": "Contact",
+    "dashboard": "Dashboard",
+    "star": "Star"
+  }
+}
